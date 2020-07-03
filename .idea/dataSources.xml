@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails dank-shk-api: production" uuid="31490b1b-5b56-4974-9f09-d75dc5bfae8e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/dank-shk-api_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails dank-shk-api: development" uuid="73e65e2f-c077-4e5e-97cb-9f78be8e575a">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://us-cdbr-east-02.cleardb.com/heroku_c98b927af67f6a5?reconnect=true</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails dank-shk-api: test" uuid="7ada136c-4da8-42c7-a995-1308cd9e4301">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/dank-shk-api_test</jdbc-url>
+    </data-source>
+  </component>
+</project>
