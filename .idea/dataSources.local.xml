@@ -7,7 +7,7 @@
       <schema-mapping />
     </data-source>
     <data-source name="Rails dank-shk-api: development" uuid="73e65e2f-c077-4e5e-97cb-9f78be8e575a">
-      <database-info product="MySQL" version="5.5.62-log" jdbc-version="4.2" driver-name="MySQL Connector/J" driver-version="mysql-connector-java-8.0.15 (Revision: 79a4336f140499bd22dd07f02b708e163844e3d5)" dbms="MYSQL" exact-version="5.5.62">
+      <database-info product="MySQL" version="5.5.62-log" jdbc-version="4.2" driver-name="MySQL Connector/J" driver-version="mysql-connector-java-8.0.15 (Revision: 79a4336f140499bd22dd07f02b708e163844e3d5)" dbms="MYSQL" exact-version="5.5.62" exact-driver-version="8.0">
         <extra-name-characters>#@</extra-name-characters>
         <identifier-quote-string>`</identifier-quote-string>
       </database-info>
