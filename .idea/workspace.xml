@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46abd2b3-f13e-4641-a9bc-0b388c773327" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-    </list>
+    <list default="true" id="46abd2b3-f13e-4641-a9bc-0b388c773327" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593765187190</updated>
-      <workItem from="1593765190613" duration="3743000" />
+      <workItem from="1593765190613" duration="3968000" />
     </task>
     <servers />
   </component>
@@ -187,6 +183,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="725" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1593766746798" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1593770082006">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593770082006" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1593770082006">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593770082006" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1593770082005">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593770082005" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1593770082006">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593770082006" />
     <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1593765582376">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

@@ -10,11 +10,10 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20200703084426) do
+ActiveRecord::Schema.define(version: 20200703100837) do
 
-  create_table "timings", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
-    t.integer "target_id"
-    t.datetime "launch_time"
+  create_table "timings", primary_key: "target_id", id: :integer, default: nil, force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
+    t.datetime "launch_time", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
