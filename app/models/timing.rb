@@ -1,0 +1,2 @@
+class Timing < ApplicationRecord
+end

@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  target_id: 1
+  launch_time: 2020-07-03 02:44:26
+
+two:
+  target_id: 1
+  launch_time: 2020-07-03 02:44:26
